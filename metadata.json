@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Secure File Sharing System",
+  "description": "A modern, secure, and intelligent cloud-based file sharing platform with AI capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
